@@ -16,3 +16,7 @@ Firebase web config is public client configuration, not a service-account privat
 
 LIMITATIONS
 Hosting is required; this package does not publish itself and does not compile an APK. Internet is required for login and cloud data. GST math is a simple percentage calculation; confirm tax rate, split CGST/SGST/IGST, and legal invoice requirements with your accountant. Backups are not configured.
+
+
+WHATSAPP BILL SHARING
+The WhatsApp bill details button opens the customer chat with a prefilled invoice summary. The user must review and tap Send. To send the PDF invoice, first use Print / Save PDF, save the PDF on the phone, then attach it in WhatsApp manually. The website cannot silently send messages or attach files without the user action.
